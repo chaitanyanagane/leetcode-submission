@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/chaitanyanagane/leetcode-submission/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanagane/leetcode-submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyanagane/leetcode-submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/chaitanyanagane/leetcode-submission/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanagane/leetcode-submission/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
